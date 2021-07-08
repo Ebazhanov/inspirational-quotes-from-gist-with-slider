@@ -5,4 +5,4 @@ An example how to fetch data from your own [Gist](https://github.com/Ebazhanov/i
 
 - [Codesandbox](https://codesandbox.io/s/inspirational-quotes-from-gist-i6nts)
 
-
+![screenshot](public/screen.jpg)
