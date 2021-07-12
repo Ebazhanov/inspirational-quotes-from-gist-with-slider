@@ -34,7 +34,7 @@ footer {
 
 @media (max-width: 800px) {
     .quote-container {
-        padding: 10% 25% 10% 25%;
+        padding: 25% 15% 10% 15%;
     }
     .quote-container {
         font-size: 10px;
