@@ -1,6 +1,6 @@
 ## About The Project
 
-> An example how to fetch data from your own Gist [https://inspirational-quotes-from-gist.vercel.app/](https://inspirational-quotes-from-gist.vercel.app/)
+> An example how to fetch data from your own Gist [https://inspirational-quotes-from-gist.vercel.app/](https://inspirational-quotes-from-gist.vercel.app/) also to play a little with Slider library
 
 ### Built With
 
