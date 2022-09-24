@@ -44,8 +44,8 @@ function App() {
         modules={[Navigation, Pagination, Mousewheel, Keyboard, FreeMode]}
         className="swiper-slide"
       >
-        {quotes.map((quote, i) => (
-          <SwiperSlide>
+        {quotes.map((quote, index) => (
+          <SwiperSlide key={index}>
             <div className="s-slide">
               <p className="s-author">{quote.author}</p>
               <h1 className="s-title">{quote.quote}</h1>
