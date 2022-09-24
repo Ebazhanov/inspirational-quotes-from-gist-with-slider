@@ -30,7 +30,7 @@
     @include for-tablet-portrait-up {
       display: none;
     }
-    @include for-tablet-portrait-up {
+    @include desktop {
       display: block;
     }
   }
