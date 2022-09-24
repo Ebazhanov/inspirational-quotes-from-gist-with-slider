@@ -46,8 +46,8 @@ function App() {
       >
         {quotes.map((quote, i) => (
           <SwiperSlide>
-            <div className="s-right">
-              <p className="s-desc">{quote.author}</p>
+            <div className="s-slide">
+              <p className="s-author">{quote.author}</p>
               <h1 className="s-title">{quote.quote}</h1>
             </div>
           </SwiperSlide>

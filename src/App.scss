@@ -32,7 +32,7 @@
     justify-content: center;
   }
 
-  .s-right {
+  .s-slide {
     padding: 250px 350px;
     @include for-phone-only {
       padding: 10px 50px 10px 70px;
@@ -42,7 +42,7 @@
     }
   }
 
-  .s-desc {
+  .s-author {
     text-indent: 5%;
     margin-bottom: 25px;
     @include for-phone-only {
@@ -52,7 +52,7 @@
 
   .s-title {
     @include for-phone-only {
-      font-size: 20px;
+      font-size: 30px;
     }
     @include for-tablet-portrait-up {
       font-size: 45px;
