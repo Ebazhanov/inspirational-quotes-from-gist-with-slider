@@ -17,6 +17,15 @@
     height: 95vh;
   }
 
+  .swiper-pagination {
+    @include for-phone-only {
+      display: none;
+    }
+    @include for-tablet-portrait-up {
+      display: none;
+    }
+  }
+
   .swiper-slide {
     display: flex;
     align-items: center;
