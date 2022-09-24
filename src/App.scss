@@ -52,7 +52,7 @@
 
   .s-title {
     @include for-phone-only {
-      font-size: 30px;
+      font-size: 40px;
     }
     @include for-tablet-portrait-up {
       font-size: 45px;
